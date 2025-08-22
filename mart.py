@@ -1,5 +1,5 @@
 cart=[]
-print("Welcome")
+print("Hi sir Welcome")
 print("1 for add item")
 print("2 for remove item")
 print("3 for update")
